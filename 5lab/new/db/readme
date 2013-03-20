@@ -1,0 +1,3 @@
+At the top of your php file include the following line:
+require_once('[PATH/]MyOkj.php');
+where [PATH/] is the path where you copied the class files
