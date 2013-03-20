@@ -1,1 +1,0 @@
-../../javascript/mootools/mootools-core-yc.js
